@@ -1,7 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  id: ac62cf59-25fc-44f6-8eec-17deee029361
+  id: 309e7dd4-6563-4c27-872f-bdae224cb53b
   title: Intro
   description: A brief introduction to the project
   # keywords: []
@@ -24,3 +24,4 @@ site:
     logo: assets/logo.png
   parts:
     primary_sidebar_footer: "Hannah Llesis"
+
