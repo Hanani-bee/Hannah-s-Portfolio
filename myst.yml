@@ -16,6 +16,8 @@ project:
           title: Lab Task 1
         - file: projects/lab/lab_2to4.ipynb
           title: Lab Task 2 to 4
+        - file: projects/lab/lab_5.ipynb
+          title: Lab Task 5
         - file: projects/lab/lab_6.ipynb
           title: Lab Task 6
 site:
