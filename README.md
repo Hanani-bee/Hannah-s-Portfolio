@@ -11,7 +11,9 @@ Hannah's Portfolio
 ├── Academic Works
 │   └── Laboratory Tasks
 │       ├── Lab Task 1
-│       └── Lab Task 2 to 4
+│       ├── Lab Task 2 to 4
+|       ├── Lab Task 5
+│       └── Lab Task 6
 │   └── [to add more]
 ```
 
