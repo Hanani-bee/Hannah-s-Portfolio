@@ -1,0 +1,15 @@
+{
+  "name": "hannah-portfolio",
+  "private": true,
+  "scripts": {
+    "start": "myst start",
+    "build": "myst build --html",
+    "serve": "npm run build && node serve.mjs",
+    "preview": "node serve.mjs",
+    "build:pages": "BASE_URL=${BASE_URL:-/potfolio} myst build --html",
+    "clean": "myst clean --all --yes"
+  },
+  "dependencies": {
+    "mystmd": "^1.10.1"
+  }
+}
