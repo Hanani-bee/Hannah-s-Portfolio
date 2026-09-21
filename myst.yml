@@ -1,15 +1,26 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  id: 309e7dd4-6563-4c27-872f-bdae224cb53b
-  # title:
-  # description:
+  id: ac62cf59-25fc-44f6-8eec-17deee029361
+  title: Intro
+  description: A brief introduction to the project
   # keywords: []
   # authors: []
   # github:
-  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: index.md
+    - file: projects/lab/lab_index.md
+      title: Lab Tasks
+      children:
+        - file: projects/lab/lab_1.md
+          title: Lab Task 1
+        - file: projects/lab/lab_2to4.ipynb
+          title: Lab Task 2 to 4
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  options:
+    style: styles.css
+    logo_text: "Hannah's Portfolio"
+    logo: assets/logo.png
+  parts:
+    primary_sidebar_footer: "Hannah Llesis"
