@@ -24,6 +24,7 @@ site:
     style: styles.css
     logo_text: "Hannah's Portfolio"
     logo: assets/logo.png
+    favicon: logo.png
   parts:
     primary_sidebar_footer: "Hannah Llesis"
 
