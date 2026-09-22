@@ -28,8 +28,6 @@
 
 html.dark,
 .dark {
-    /* #1C1917 matches the theme's own dark surfaces, so the page,
-       sidebar and navbar all sit on the same background. */
     --bg: #1C1917;
     --text: #DDE6D2;
     --heading: #C6DCA6;
@@ -101,12 +99,10 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: -0.01em;
 }
 
-/* Big headings carry enough size on their own. */
 h1, h2 {
     font-weight: 400 !important;
 }
 
-/* Small headings keep a little weight so they still read as headings. */
 h3, h4, h5, h6 {
     font-weight: 500 !important;
 }
