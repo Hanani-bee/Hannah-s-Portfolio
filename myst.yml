@@ -22,7 +22,7 @@ project:
           title: Lab Task 6
         - file: projects/lab/lab_7.ipynb
           title: Lab Task 7
-        - file: projects/lab/blog.ipynb
+        - file: projects/lab/blog.md
           title: Blog
 site:
   template: https://github.com/jupyter-book/myst-theme/releases/download/myst-to-react%401.4.1/book-theme.zip
