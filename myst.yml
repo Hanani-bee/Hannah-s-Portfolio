@@ -22,6 +22,8 @@ project:
           title: Lab Task 6
         - file: projects/lab/lab_7.ipynb
           title: Lab Task 7
+        - file: projects/lab/blog.ipynb
+          title: Blog: Weight Decay
 site:
   template: book-theme
   options:
